@@ -43,15 +43,6 @@
 
 ---
 
-### // Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dars1k23&show_icons=true&theme=radium&locale=ru&hide_border=true&count_private=true" alt="Статистика Dars1k23" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dars1k23&layout=compact&theme=radium&hide_border=true" alt="Топ языков Dars1k23" height="150"/>
-</div>
-
----
-
 ### // Как со мной связаться
 
 <a href="https://t.me/dars1k23"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
