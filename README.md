@@ -1,21 +1,21 @@
-# Привет, я Александр! 👋
+# Привет, я Александр!
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dars1k23&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=Dars1k23&label=Просмотры+профиля&color=555555&style=flat" alt="Просмотры профиля" />
 </div>
 
-### 👨‍💻 Обо мне
+### // Обо мне
 
 Я **Junior DevOps / Backend разработчик**, который увлекается созданием эффективных приложений, автоматизацией процессов (CI/CD) и работой с инфраструктурой.
 
-* 🎓 Студент 3 курса **НИЯУ МИФИ** (Информатика и вычислительная техника).
-* 💼 Опыт работы инженером-тестировщиком БВС (анализ логов, интеграционное тестирование).
-* 🌱 Сейчас активно развиваюсь в бэкенд-разработке и пишу пет-проекты.
-* 🎯 **Фокус:** Backend-разработка, автоматизация, настройка окружений и контейнеризация.
+* **[ Учеба ]** Студент 3 курса НИЯУ МИФИ (Информатика и вычислительная техника).
+* **[ Опыт ]** Опыт работы инженером-тестировщиком БВС (анализ логов, интеграционное тестирование).
+* **[ Развитие ]** Сейчас активно углубляюсь в бэкенд-разработку и пишу пет-проекты.
+* **[ Фокус ]** Backend-разработка, автоматизация, настройка окружений и контейнеризация.
 
 ---
 
-### 🛠 Мой стек технологий
+### // Мой стек технологий
 
 **Языки программирования:**
 <br/>
@@ -23,10 +23,16 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-**Базы данных и Инфраструктура:**
+**Базы данных:**
 <br/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+**Операционные системы (Linux):**
+<br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
 
@@ -37,16 +43,16 @@
 
 ---
 
-### 📊 Статистика GitHub
+### // Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dars1k23&show_icons=true&theme=radium&locale=ru&hide_border=true" alt="Статистика Dars1k23" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dars1k23&show_icons=true&theme=radium&locale=ru&hide_border=true&count_private=true" alt="Статистика Dars1k23" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dars1k23&layout=compact&theme=radium&hide_border=true" alt="Топ языков Dars1k23" height="150"/>
 </div>
 
 ---
 
-### 📫 Как со мной связаться
+### // Как со мной связаться
 
 <a href="https://t.me/dars1k23"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:sanchous-2018@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
