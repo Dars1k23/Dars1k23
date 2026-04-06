@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dars1k23&label=Просмотры+профиля&color=555555&style=flat" alt="Просмотры профиля" />
 </div>
 
-### // Обо мне
+### ~$ Обо мне
 
 Я **Junior DevOps / Backend разработчик**, который увлекается созданием эффективных приложений, автоматизацией процессов (CI/CD) и работой с инфраструктурой.
 
@@ -15,7 +15,7 @@
 
 ---
 
-### // Мой стек технологий
+### ~$ Мой стек технологий
 
 **Языки программирования:**
 <br/>
@@ -44,7 +44,7 @@
 
 ---
 
-### // Как со мной связаться
+### ~$ Как со мной связаться
 
 <a href="https://t.me/dars1k23"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:sanchous-2018@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
